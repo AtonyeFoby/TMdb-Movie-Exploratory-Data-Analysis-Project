@@ -1,4 +1,3 @@
-# TMdb-Movie-Project(Exploratory Data Analysis)
 # An Exploratory Analysis of TMdb Movie Data
 ## by Atonye Eben-Foby
 
